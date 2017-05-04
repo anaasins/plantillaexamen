@@ -1,6 +1,6 @@
 <?php
 /**
- * Permitir la conexion contra la base de datos
+ * Permitir la conexion contra la base de datos.
  */
 class db
 {
